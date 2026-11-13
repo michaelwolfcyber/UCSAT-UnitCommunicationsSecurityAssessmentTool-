@@ -1,8 +1,16 @@
 # UCSAT — Unit Communications Security Assessment Tool
 
-A command-line tool that walks unit leaders through a structured communications security assessment, scores their unit's posture in real time, and saves a report to disk.
+An educational command-line checklist that demonstrates weighted scoring for communications-security topics and saves a local assessment report. It is a personal learning project, not an official Army assessment, approved inspection instrument, or source of operational guidance.
 
-Built for Army ROTC MS202 | Python 3 | No dependencies
+Originally developed as an Army ROTC MS202 learning project | Python 3 | No dependencies
+
+---
+
+## Scope and safe use
+
+Use only fictional examples and non-sensitive information. Do not enter real unit designations, personnel names, schedules, locations, communications plans, frequencies, call signs, cryptographic material, or other operational or controlled information. Reports are written to the local working directory and should be treated accordingly.
+
+The checklist is illustrative and does not replace current Army policy, unit procedures, a qualified COMSEC/OPSEC review, or direction from the chain of command. Do not use its score as an authoritative security rating or compliance determination.
 
 ---
 
